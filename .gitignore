@@ -1,0 +1,6 @@
+/logs/
+secure/
+/.idea/
+/jar/
+.gradle
+gradle
